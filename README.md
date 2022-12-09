@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ammar Khan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Ammarkhan96
+- 👀 I’m interested in web and mobile App development
+- 🌱 I’m currently learning React and Devops
+- 💞️ I’m looking to collaborate on React Projects.
 - 📫 How to reach me ammarkhaan96@gmail.com
 
 <!---
