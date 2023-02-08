@@ -4,7 +4,7 @@ I’m currently learning React and Devops. I’m looking to collaborate on React
 
 🛠  Tech Stack
 
-📜  Language:  Javascript 
+📜  Language: HTML, CSS, Javascript 
 
 🌐  Frontend:  React 
 
