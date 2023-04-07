@@ -6,7 +6,7 @@ I’m currently learning React and Devops. I’m looking to collaborate on React
 
 📜  Language: HTML, CSS, Javascript 
 
-🌐  Frontend:  React 
+🌐  Frontend:  React, Next
 
 🛢  Database:  MongoDB MySQL 
 
@@ -16,4 +16,4 @@ I’m currently learning React and Devops. I’m looking to collaborate on React
 
 🖥  Design:  Figma
 
-♾️  Devops:  Docker
+♾️  Devops:  Docker, Kubernetes
