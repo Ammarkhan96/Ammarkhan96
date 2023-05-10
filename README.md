@@ -7,7 +7,7 @@ JavaScript
 TypeScript
 
 Front-end development:
-HTML | CSS | SCSS | JS
+HTML | CSS | SCSS | JS |
 React JS | Next JS | Redux | Redux-thunk
 Bootstrap | Tailwind
 
