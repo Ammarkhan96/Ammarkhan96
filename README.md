@@ -2,18 +2,26 @@ Welcome 👋 , I'm Ammar Khan.
 <hr/>
 I’m currently learning React and Devops. I’m looking to collaborate on React Projects.How to reach me ammarkhaan96@gmail.com
 
-🛠  Tech Stack
+Programming Languages:
+JavaScript
+TypeScript
 
-📜  Language: HTML, CSS, Javascript 
+Front-end development:
+HTML | CSS | SCSS | JS
+React JS | Next JS | Redux | Redux-thunk
+Bootstrap | Tailwind
 
-🌐  Frontend:  React Js, Next
+Mobile development:
+React Native
 
-🛢  Database:  MongoDB MySQL 
+Databases:
+MongoDB | Firebase
 
-⚙️  VCS:   Git GitHub 
+Tools:
+Docker
+Git
+Gitlab  
 
-🔧  IDE's:  Visual Studio Code
-
-🖥  Design:  Figma
-
-♾️  Devops:  Docker, Kubernetes
+Currently Learning:
+Kubernetes
+3D
