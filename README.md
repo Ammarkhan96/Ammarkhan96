@@ -29,4 +29,4 @@
 
 ### How to reach me ?
 
-[<img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/587/small_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"](https://www.linkedin.com/in/ammar-khan-159369188/)
+[<img src="https://img.freepik.com/premium-vector/linkedin-icon_488108-5.jpg"](https://www.linkedin.com/in/ammar-khan-159369188/)
