@@ -1,27 +1,33 @@
-Welcome 👋 , I'm Ammar Khan.
-<hr/>
-I’m currently learning React and Devops. I’m looking to collaborate on React Projects.How to reach me ammarkhaan96@gmail.com
+### Hi there 👋, I am Hasham.
+<hr />
 
-Programming Languages:
-JavaScript
-TypeScript
+### Programming Languages:
+- JavaScript
+- TypeScript
 
-Front-end development:
-HTML | CSS | SCSS | JS |
-React JS | Next JS | Redux | Redux-thunk
-Bootstrap | Tailwind
+### Frontend development:
+- HTML | CSS | SCSS | JS | TS
+- React | Redux | Redux-thunk | Redux-Observable
+- Tailwind
 
-Mobile development:
-React Native
+### Backend development:
+- Nodejs | Express | NestJS
+- Flask | Django
 
-Databases:
-MongoDB | Firebase
+### Mobile development:
+- React Native
 
-Tools:
-Docker
-Git
-Gitlab  
+### Databases:
+- Firebase
 
-Currently Learning:
-Kubernetes
-3D
+### Tools:
+- Docker
+- Git
+- Kubernetes
+
+### Currently Learning:
+- Next JS
+
+### How to reach me ?
+
+[<img src="./icons/linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/ammar-khan-159369188/)
