@@ -29,4 +29,4 @@
 
 ### How to reach me ?
 
-[<img src="https://play.google.com/store/apps/details?id=com.linkedin.android&hl=en>](https://www.linkedin.com/in/ammar-khan-159369188/)
+[<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw">](https://www.linkedin.com/in/ammar-khan-159369188/)
