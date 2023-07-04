@@ -11,8 +11,7 @@
 - Tailwind
 
 ### Backend development:
-- Nodejs | Express | NestJS
-- Flask | Django
+- Nodejs | Express
 
 ### Mobile development:
 - React Native
