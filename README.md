@@ -1,4 +1,4 @@
-### Hi there 👋, I am Hasham.
+### Hi there 👋, I am Ammar Khan.
 <hr />
 
 ### Programming Languages:
