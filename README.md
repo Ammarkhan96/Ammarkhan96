@@ -17,7 +17,7 @@
 - React Native
 
 ### Databases:
-- Firebase | MySQL
+- Firebase | MySQL | Prisma
 
 ### Tools:
 - Docker
