@@ -26,6 +26,7 @@
 
 ### Currently Learning:
 - Next JS
+- Shopify
 
 ### How to reach me ?
 
