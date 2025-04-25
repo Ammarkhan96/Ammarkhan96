@@ -1,33 +1,46 @@
-### Hi there 👋, I am Ammar Khan.
+### 👋 Hi there, I'm Ammar Khan
 <hr />
 
-### Programming Languages:
-- JavaScript
-- TypeScript
+🔧 **DevOps Engineer | Cloud & Automation Enthusiast**
 
-### Frontend development:
-- HTML | CSS | SCSS | JS | TS
-- React | Redux | Redux-thunk | Redux-Observable
-- Tailwind
+I'm passionate about streamlining development pipelines, deploying scalable applications, and automating everything I can. With a solid foundation in frontend and backend development, I bring a unique perspective to DevOps practices — bridging development and operations to deliver robust, efficient systems.
 
-### Backend development:
-- Nodejs | Express
+---
 
-### Mobile development:
-- React Native
-
-### Databases:
-- Firebase | MySQL | Prisma
-
-### Tools:
+### 🛠️ DevOps & Cloud Tools:
 - Docker
-- Git
 - Kubernetes
+- Git & GitHub Actions
+- CI/CD Pipelines
+- Linux & Bash
+- AWS (Basics)
+- Monitoring & Logging (learning)
 
-### Currently Learning:
-- Next JS
-- Shopify
+---
 
-### How to reach me ?
+### 💻 Programming Languages:
+- JavaScript | TypeScript
 
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasser-cherif" height="30" width="40" />](https://www.linkedin.com/in/ammar-khan-159369188/)
+---
+
+### 🌐 Web Development (Foundation):
+- **Frontend:** HTML | CSS| Tailwind | React 
+- **Backend:** Node.js | Express
+
+---
+
+### 🗄️ Databases:
+- Firebase | MySQL 
+
+---
+
+### 📚 Currently Learning:
+- Advanced Kubernetes, Terraform & ArgoCD
+
+---
+
+### 📫 How to reach me?
+
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-khan" height="30" width="40" />](https://www.linkedin.com/in/ammar-khan-159369188/)
+
+---
