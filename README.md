@@ -3,7 +3,7 @@
 
 🔧 **DevOps Engineer | Cloud & Automation Enthusiast**
 
-I'm passionate about streamlining development pipelines, deploying scalable applications, and automating everything I can. With a solid foundation in frontend and backend development, I bring a unique perspective to DevOps practices — bridging development and operations to deliver robust, efficient systems.
+I'm passionate about automating infrastructure, streamlining deployment workflows, and building reliable cloud-based solutions. I enjoy working with DevOps tools and modern CI/CD practices to improve scalability, efficiency, and system reliability.
 
 ---
 
@@ -18,24 +18,32 @@ I'm passionate about streamlining development pipelines, deploying scalable appl
 
 ---
 
-### 💻 Programming Languages:
-- JavaScript | TypeScript
+### 💻 Scripting & Automation:
+- Bash Scripting
+- Shell Automation
+- Linux Command Line Operations
 
 ---
 
-### 🌐 Web Development (Foundation):
-- **Frontend:** HTML | CSS| Tailwind | React 
-- **Backend:** Node.js | Express
+### ☁️ DevOps Expertise:
+ - Infrastructure Automation
+ - Containerization & Orchestration
+ - Continuous Integration & Continuous Deployment
+ - Cloud Fundamentals
+ - System Monitoring & Troubleshooting
+ - Deployment Automation
+ - Version Control & Team Collaboration
 
 ---
-
-### 🗄️ Databases:
-- Firebase | MySQL 
 
 ---
 
 ### 📚 Currently Learning:
-- Advanced Kubernetes, Terraform & ArgoCD
+  - Advanced Kubernetes
+  - Terraform
+  - ArgoCD
+  - AWS DevOps Services
+  - Infrastructure as Code (IaC)
 
 ---
 
